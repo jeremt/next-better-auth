@@ -8,6 +8,13 @@
       "when": 1774343323972,
       "tag": "0000_volatile_chronomancer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1774349522648,
+      "tag": "0001_legal_blonde_phantom",
+      "breakpoints": true
     }
   ]
 }
